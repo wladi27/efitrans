@@ -27,7 +27,7 @@
       "type": "image/png"
     }],
   "lang": "es-ES",
-  "start_url": "./index2.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "black",
   "theme_color": "black"
